@@ -1,0 +1,185 @@
+body{
+	width:1600px;
+	margin:auto;
+    background-color:#FAEBD7;
+}
+header{
+	height:200px;
+	width: 100%;
+	background-color:#ccccb3;
+	border-radius: 20px;
+}
+#navbanner{
+	background:#ccccb3;
+	height: 100px;
+	width: 98,5%;
+	border-radius: 20px; 
+
+}
+section{
+	width: 400px;
+	height: 500px;
+	float: left;
+}
+#art{
+	background:#ccccb3;
+	height:340px; 
+	width:400px;
+	border-radius:20px 20px;
+}
+#art2{
+	background:#ccccb3;
+	height:340px; 
+	width:400px;
+	border-radius:20px ;
+}
+#abc{
+	background: #b30000;
+	height: 50px;
+	width:100%;
+	margin-top: 30px;
+}
+#abc2{
+	background: #b30000;
+	height: 50px;
+	width: 100%;
+	margin-top: 40px;
+}
+aside{
+	margin-top: 30px;
+	width: 1200px;
+	height: 720px;
+	float: right; 
+}
+#arte{
+	background:#ccccb3;
+	height:350px;
+	width:580px;
+	margin-right: 10px;
+	margin-left: 10px;
+	float: left;
+	margin-bottom: 40px;
+	border-radius:20px;
+}
+#arte2{
+	background:#ccccb3;
+	height:350px;
+	width:580px ;
+	margin-right: 10px;
+	margin-left: 10px;
+	float: left;
+	margin-bottom: 40px;
+	border-radius: 20px;
+}#arte3{
+	background:#ccccb3;
+	height:330px; 
+	width:580px;
+	margin-right: 10px;
+	margin-left: 10px;
+	float: left;
+	border-radius:20px ;
+}
+#arte4{
+	background:#ccccb3;
+	height: 330px;
+	width:580px ;
+	margin-right: 10px;
+	margin-left: 10px;
+	float: left;
+	border-radius: 20px ;
+}#tri{
+	width:500px;
+	height:200px;
+	margin-left: 40px;
+	background-color:#ffcc00;
+	background-image: url("../img/tarjeta.jpg");
+}
+.textnav{
+	margin-top:10px;
+	margin-bottom:30px;
+}
+
+#nav1{
+	background:#b30000;
+	height: 50px;
+	width:100%;
+	border-radius: 20px 20px 2px 0px;
+}
+#nav2{
+	background:#b30000;
+	height: 50px;
+	width:100%;
+	border-radius: 20px 20px 2px 0px;
+}
+#nav3{
+	background:#b30000;
+	height: 50px;
+	width:100%;
+	border-radius: 20px 20px 2px 0px;
+}
+#nav4{
+	background:#b30000;
+	height: 50px;
+	width:100%;
+	border-radius: 20px 20px 2px 0px;
+}
+footer{
+	width: 1600px;
+	height:200px;
+	margin: 10px;
+	float: right;
+	border-radius:20px;
+	background-color:#ccccb3;
+	clear: both;
+}
+#banco{
+	float: right;
+	width:400px;
+	height: 180px;
+	margin-top: 10px;
+	margin-right: 20px;
+	border-radius: 20px
+}
+input{
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 20px;
+    width: 200px;
+    height: 20px;	
+}
+#tipo{
+	margin-left:22px;
+}
+#clave{
+	margin-left: 10px;
+}
+#nombre{
+	margin-top: 40px;
+}
+#boto{
+	margin-top: 20px;
+	width: 100px;
+	height: 50px;
+	background-color:#b30000;
+}
+#titulo{
+	font-size: 20px;
+	font-family: calibri;
+	color:black;
+}
+#tumadre{
+	font-size: 20px;
+	font-family: calibri;
+	color:black;
+}
+#texto{
+	float: left;
+	margin-left: 40px;
+	font-size: 60px;
+}
+#texto1{
+	float: right;
+	margin-top: 80px;
+	margin-right: 40px;
+	font-size: 30px;
+}
